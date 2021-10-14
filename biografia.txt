@@ -1,3 +1,4 @@
 Mi nombre es Yomar Gutierrez
 
-Soy Web developer en Globant y en mi tiempo libre juego tenis, escribo libros y hago cosas raras con rasperry pis
+Soy Fullstack developer en Globant y en mi tiempo libre juego tenis, 
+hago running, escribo libros y hago cosas raras con rasperry pis
